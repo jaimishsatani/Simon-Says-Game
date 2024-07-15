@@ -6,3 +6,5 @@ This Simon Says game is an interactive memory and pattern recognition game where
 Generating random sequences
 Checking the correctness of the player's responses
 These features ensure an engaging and challenging gameplay experience.
+
+
