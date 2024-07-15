@@ -8,10 +8,10 @@ Checking the correctness of the player's responses
 
 # Overview
 
-![image](https://github.com/user-attachments/assets/74bbb8c0-111b-4ef5-9b97-c01da63be17c)
+Start game : ![image](https://github.com/user-attachments/assets/74bbb8c0-111b-4ef5-9b97-c01da63be17c)
 
 
-![image](https://github.com/user-attachments/assets/bed5d348-8dc5-495d-accd-f92d9d5f5bf8)
+End game : ![image](https://github.com/user-attachments/assets/bed5d348-8dc5-495d-accd-f92d9d5f5bf8)
 
 
 
