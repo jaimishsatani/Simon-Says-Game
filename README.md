@@ -8,6 +8,8 @@ Checking the correctness of the player's responses
 
 # Overview
 
-![image](https://github.com/user-attachments/assets/74bbb8c0-111b-4ef5-9b97-c01da63be17c)
+![image](https://github.com/user-attachments/assets/609ddc76-1884-4a01-b7e7-31cc3c4a8502)
 
- ![image](https://github.com/user-attachments/assets/bed5d348-8dc5-495d-accd-f92d9d5f5bf8)
+![image](https://github.com/user-attachments/assets/23fae243-08f1-4241-91b3-45509a89afdc)
+
+
